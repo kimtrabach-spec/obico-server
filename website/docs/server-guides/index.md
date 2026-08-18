@@ -1,4 +1,5 @@
----
+---150
+
 title: Self-hosted Obico Server Guides
 ---
 
